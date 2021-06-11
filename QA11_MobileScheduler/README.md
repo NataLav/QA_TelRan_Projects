@@ -1,4 +1,4 @@
-# 20210201_QA11MobileScheduler
+# QA11_MobileScheduler
 Mobile application test for Scheduler Application (application for creating events on user's timetable) using Android emulator and Appium test automation tool. 
 The project logic is based on Value Object pattern, which you can find in the app package.
 The test logic is implemented using TestNG Framework.
