@@ -9,7 +9,7 @@ public class EventCreationTests extends TestBase {
     @BeforeMethod
     public void preconditions() {
         if (!app.event().isContainerPresent()) {
-            app.user().login("katja1234@gmail.com", "Katja12345678");
+            app.user().login("nata1234@gmail.com", "Nata12345678");
         }
     }
 
@@ -17,7 +17,7 @@ public class EventCreationTests extends TestBase {
     public void eventCreationTest() {
         app.event().initEventCreation();
         app.event().tapOnPencilButton();
-        app.event().fillInTitleForm("Haircut");
+        app.event().fillInTitleForm("Dentist");
         app.event().fillInTypeForm("Termin");
         app.event().hideKeyboard();
         //app.event().fillInTimeRangeForm();
@@ -32,8 +32,8 @@ public class EventCreationTests extends TestBase {
     public void eventCreationTestWithSwipeLeftAndDateToChoose() {
         app.event().initEventCreation();
         app.event().tapOnPencilButton();
-        app.event().selectDate("future","FEBRUARY", "5");
-        app.event().fillInTitleForm("Yoga");
+        app.event().selectDate("future","July", "21");
+        app.event().fillInTitleForm("Therapeutic Massage for Babies");
         app.event().fillInTypeForm("Appointment");
         app.event().hideKeyboard();
         //app.event().fillInTimeRangeForm();

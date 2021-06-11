@@ -8,7 +8,7 @@ public class LoginTest extends TestBase {
 
     @Test
     public void testLogin(){
-        app.user().login("katja1234@gmail.com", "Katja12345678");
+        app.user().login("nata1234@gmail.com", "Nata12345678");
        Assert.assertTrue(app.event().isElementPresent(By.id("sort_options")));
     }
 

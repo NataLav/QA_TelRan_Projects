@@ -15,7 +15,7 @@ public class TestOpenApplication extends TestBase {
 
     @Test
     public void testThatEventCreated(){
-        app.user().login("katja1234@gmail.com", "Katja12345678");
+        app.user().login("nata1234@gmail.com", "Nata12345678");
         app.event().multiSwipe(3);
     }
 

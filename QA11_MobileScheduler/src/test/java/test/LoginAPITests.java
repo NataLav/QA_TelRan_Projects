@@ -31,16 +31,16 @@ public class LoginAPITests {
 
     private String sendRequestWithLoginAndPassword() throws IOException {
         return Request.Post(baseURL + "/api/login")
-                .bodyString("{ \"email\": \"" + "katja1234@gmail.com" + "\", \"password\": \""
-                                + "Katja12345678" + "\"}"
+                .bodyString("{ \"email\": \"" + "nata1234@gmail.com" + "\", \"password\": \""
+                                + "Nata12345678" + "\"}"
                         , ContentType.APPLICATION_JSON)
                 .execute().returnContent().asString();
     }
 
     @Test
     public void getResponseCodeWithLoginTest() throws IOException {
-        String email = "katja1234@gmail.com";
-        String pwd = "Katja12345678";
+        String email = "nata1234@gmail.com";
+        String pwd = "Nata12345678";
 
         int statusCode = Request.Post(baseURL + "/api/login").bodyString("{ \"email\": \""
                         + email + "\", \"password\": \"" + pwd + "\"}"

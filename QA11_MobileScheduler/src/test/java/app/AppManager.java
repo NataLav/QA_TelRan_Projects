@@ -21,12 +21,12 @@ public class AppManager {
         caps = new DesiredCapabilities();
 
         caps.setCapability("platformName", "Android");
-        caps.setCapability("platformVersion", "10.0");
-        caps.setCapability("deviceName", "Pixel_4_API_29");
+        caps.setCapability("platformVersion", "8.0.0");
+        caps.setCapability("deviceName", "qa_nexus5x");
         caps.setCapability("automationName", "Appium");
         caps.setCapability("appPackage", "com.example.svetlana.scheduler");
         caps.setCapability("appActivity", "presentation.splashScreen.SplashScreenActivity");
-        caps.setCapability("app", "C://Dev/v.0.0.3.apk");
+        caps.setCapability("app", "/Users/natalialavrynenko/Desktop/QAMobile/v.0.0.3.apk");
 
         driver = new AndroidDriver(new URL("http://127.0.01:4723/wd/hub"), caps);
 
