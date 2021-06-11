@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2111572e-af73-4a66-b4de-01a8b6435cd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p7vUlhD5LAl62ZU25gkPuPyWvu" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.SwitchTest.switchLanquagesTestEN">
+    <configuration name="MainPageTests.toContactAndBackTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA11CheapTripMobileApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cheaptrip.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cheaptrip.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cheaptrip.tests.MainPageTests" />
+      <option name="METHOD_NAME" value="toContactAndBackTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTripTests.fillInTripForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA11CheapTripMobileApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cheaptrip.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cheaptrip.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cheaptrip.tests.SearchTripTests" />
+      <option name="METHOD_NAME" value="fillInTripForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchTest.switchLanquagesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA11CheapTripMobileApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cheaptrip.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cheaptrip.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cheaptrip.tests.SwitchTest" />
+      <option name="METHOD_NAME" value="switchLanquagesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchTest.switchLanquagesTestEN" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA11CheapTripMobileApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cheaptrip.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cheaptrip.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cheaptrip.tests.SwitchTest" />
+      <option name="METHOD_NAME" value="switchLanquagesTestEN" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SwitchTest.switchLanquagesTestEN" />
+        <item itemvalue="TestNG.SwitchTest.switchLanquagesTest" />
+        <item itemvalue="TestNG.SearchTripTests.fillInTripForm" />
+        <item itemvalue="TestNG.MainPageTests.toContactAndBackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2111572e-af73-4a66-b4de-01a8b6435cd4" name="Default Changelist" comment="" />
+      <created>1614546960628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614546960628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1144" height="197" key="GridCell.Tab.0.bottom" timestamp="1614552344690">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1144" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1614552344690" />
+    <state width="1144" height="197" key="GridCell.Tab.0.center" timestamp="1614552344689">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1144" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1614552344689" />
+    <state width="1144" height="197" key="GridCell.Tab.0.left" timestamp="1614552344688">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1144" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1614552344688" />
+    <state width="1144" height="197" key="GridCell.Tab.0.right" timestamp="1614552344689">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1144" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1614552344689" />
+  </component>
+</project>
