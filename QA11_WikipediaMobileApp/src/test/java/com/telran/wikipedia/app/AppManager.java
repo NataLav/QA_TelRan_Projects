@@ -25,8 +25,6 @@ public class AppManager {
         caps.setCapability("automationName", "Appium");
         caps.setCapability("appPackage", "org.wikipedia");
         caps.setCapability("appActivity", ".main.MainActivity");
-        caps.setCapability("app", "C://Dev/org.wikipedia.apk");
-
         caps.setCapability("app", "/Users/natalialavrynenko/Desktop/QAMobile/org.wikipedia.apk");
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
