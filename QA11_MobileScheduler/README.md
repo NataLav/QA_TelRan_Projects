@@ -1,8 +1,25 @@
 # QA11_MobileScheduler
-Mobile application test for Scheduler Application (application for creating events on user's timetable) using Android emulator and Appium test automation tool. 
-The project logic is based on Value Object pattern, which you can find in the app package.
-The test logic is implemented using TestNG Framework.
-In the test package you will find basic tests for this app - creation of the new user, creation of the event for today and for the date specified in the past or future.
+
+Selenium-java tests for mobile app "Mobile Scheduler".
+
+The app provides a service to create events on user's schedule. In the test package you will find basic tests for this app - creation of the new user, creation of the event for today and for the date specified in the past or future.
+
+A project to build up a test coverage for an android mobile app.
+
+Project is accomplished using Android emulator and Appium test automation tool. The project was build based on value object pattern.
+
+The test package consist of
+
+*  positive basic scenarios (login; creating, editing, deleting events)
+
+*  UI tests (visibility objects on the page)
+
+*  login Rest API tests
+
+*  saving logs to a separate file each time while running the test script
+
+Technology Used : Java, TestNG, Selenium, Gradle, Postman, Open API (Swagger), Appium, Android Studio
+
 
 # To run the project a user should do:
 1. start Appium server;
