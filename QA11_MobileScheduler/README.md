@@ -4,7 +4,7 @@ The project logic is based on Value Object pattern, which you can find in the ap
 The test logic is implemented using TestNG Framework.
 In the test package you will find basic tests for this app - creation of the new user, creation of the event for today and for the date specified in the past or future.
 
-## To run the project a user should do:
+# To run the project a user should do:
 1. start Appium server;
 2. find and open in command line your android emulator:
 ```bash
